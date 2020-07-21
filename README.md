@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers - Hooray! 
 
 - Class Date: July 20 - 23rd, 2020
 - Facilitator: @beardofedu
