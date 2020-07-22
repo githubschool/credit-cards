@@ -9,7 +9,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-I'm a change to show a merge conflict.
+I'm a change to this line to show a merge conflict that I just resolved!
 
 ## Scripts for Adding Files
 
